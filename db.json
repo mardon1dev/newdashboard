@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "name": "John Smith",
+      "age": "50",
+      "email": "john.smith@example.com",
+      "address": "Tashkent, Uzbekistan",
+      "courses": [
+        "Mathematics",
+        "Physics",
+        "Science"
+      ],
+      "isStudent": true,
+      "id": "1"
+    }
+  ],
+  "teachers": [
+    {
+      "name": "John Smith",
+      "age": "40",
+      "email": "john.smith@example.com",
+      "address": "Tashkent, Uzbekistan",
+      "subjects": [
+        "Mathematics",
+        "Physics"
+      ],
+      "isTeacher": true,
+      "id": "1"
+    }
+  ]
+}
